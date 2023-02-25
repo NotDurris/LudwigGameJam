@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b8dd7e81406bf47ae08f7789fc79b7, type: 3}
+  m_Name: ShibaInu
+  m_EditorClassIdentifier: 
+  unitName: Shiba Inu
+  unitLevel: 7
+  unitHealth: 17
+  unitDamage: 4
+  unitExperience: 0
+  unitVisual: {fileID: 3973862563508761831, guid: 589a1f3c276c6f84392e36fd9a521640,
+    type: 3}

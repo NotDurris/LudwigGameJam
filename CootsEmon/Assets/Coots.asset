@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4748473802fddad449c11d8e22709811, type: 3}
+  m_Name: Coots
+  m_EditorClassIdentifier: 
+  unitName: Coots
+  unitLevel: 5
+  unitHealth: 30
+  unitDamage: 3
+  unitExperience: 0
+  unitVisual: {fileID: 3973862563508761831, guid: 10021f1ffb851ee42a2f9e2ce33428b7,
+    type: 3}
+  currentHP: 0
